@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DPbJqJlk4rJEXBC8gTaUfwNByeDuoiTbX+Aj7574rmJVAv7KRxPJBjTnEl6QmGTLXgZ4BcGV6RYKcOX0U2zI4A==",
+  "dgSpecHash": "ktvOgmaBtHEgHEdL95lSacMS5zgAvfNvRx6j4NatuM6NOZvclQqBBdjYjR0fJ254Sfs1lesyPtkZ7yKXf81pfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tuggc\\OneDrive\\Masaüstü\\P016MVC\\AspNetMvcBlog\\App.Web.Mvc.csproj",
+  "projectFilePath": "C:\\Users\\tuggc\\OneDrive\\Masaüstü\\P016MVC\\ASPNetMvcBlog\\ASPNetMvcBlog.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

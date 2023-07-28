@@ -1,4 +1,4 @@
-namespace AspNetMvcBlog
+namespace ASPNetMvcBlog
 {
     public class Program
     {

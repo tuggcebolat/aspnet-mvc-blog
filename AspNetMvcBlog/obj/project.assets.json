@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tuggc\\OneDrive\\Masaüstü\\P016MVC\\AspNetMvcBlog\\App.Web.Mvc.csproj",
-      "projectName": "App.Web.Mvc",
-      "projectPath": "C:\\Users\\tuggc\\OneDrive\\Masaüstü\\P016MVC\\AspNetMvcBlog\\App.Web.Mvc.csproj",
+      "projectUniqueName": "C:\\Users\\tuggc\\OneDrive\\Masaüstü\\P016MVC\\ASPNetMvcBlog\\ASPNetMvcBlog.csproj",
+      "projectName": "ASPNetMvcBlog",
+      "projectPath": "C:\\Users\\tuggc\\OneDrive\\Masaüstü\\P016MVC\\ASPNetMvcBlog\\ASPNetMvcBlog.csproj",
       "packagesPath": "C:\\Users\\tuggc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tuggc\\OneDrive\\Masaüstü\\P016MVC\\AspNetMvcBlog\\obj\\",
+      "outputPath": "C:\\Users\\tuggc\\OneDrive\\Masaüstü\\P016MVC\\ASPNetMvcBlog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tuggc\\AppData\\Roaming\\NuGet\\NuGet.Config",
