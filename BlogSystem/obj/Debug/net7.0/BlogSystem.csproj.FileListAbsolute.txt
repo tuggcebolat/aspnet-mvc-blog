@@ -1,0 +1,8 @@
+C:\Users\tuggc\OneDrive\Masaüstü\P016MVC\BlogSystem\obj\Debug\net7.0\BlogSystem.csproj.AssemblyReference.cache
+C:\Users\tuggc\OneDrive\Masaüstü\P016MVC\BlogSystem\obj\Debug\net7.0\BlogSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuggc\OneDrive\Masaüstü\P016MVC\BlogSystem\obj\Debug\net7.0\BlogSystem.AssemblyInfoInputs.cache
+C:\Users\tuggc\OneDrive\Masaüstü\P016MVC\BlogSystem\obj\Debug\net7.0\BlogSystem.AssemblyInfo.cs
+C:\Users\tuggc\OneDrive\Masaüstü\P016MVC\BlogSystem\obj\Debug\net7.0\BlogSystem.csproj.CoreCompileInputs.cache
+C:\Users\tuggc\OneDrive\Masaüstü\P016MVC\BlogSystem\obj\Debug\net7.0\BlogSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tuggc\OneDrive\Masaüstü\P016MVC\BlogSystem\obj\Debug\net7.0\BlogSystem.RazorAssemblyInfo.cache
+C:\Users\tuggc\OneDrive\Masaüstü\P016MVC\BlogSystem\obj\Debug\net7.0\BlogSystem.RazorAssemblyInfo.cs
