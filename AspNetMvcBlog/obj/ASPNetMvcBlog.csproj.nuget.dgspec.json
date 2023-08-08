@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tuggc\\OneDrive\\Masaüstü\\P016MVC\\ASPNetMvcBlog\\ASPNetMvcBlog.csproj": {}
+    "C:\\Users\\tuggc\\OneDrive\\Masaüstü\\P016MVC\\AspNetMvcBlog\\ASPNetMvcBlog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tuggc\\OneDrive\\Masaüstü\\P016MVC\\ASPNetMvcBlog\\ASPNetMvcBlog.csproj": {
+    "C:\\Users\\tuggc\\OneDrive\\Masaüstü\\P016MVC\\AspNetMvcBlog\\ASPNetMvcBlog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tuggc\\OneDrive\\Masaüstü\\P016MVC\\ASPNetMvcBlog\\ASPNetMvcBlog.csproj",
+        "projectUniqueName": "C:\\Users\\tuggc\\OneDrive\\Masaüstü\\P016MVC\\AspNetMvcBlog\\ASPNetMvcBlog.csproj",
         "projectName": "ASPNetMvcBlog",
-        "projectPath": "C:\\Users\\tuggc\\OneDrive\\Masaüstü\\P016MVC\\ASPNetMvcBlog\\ASPNetMvcBlog.csproj",
+        "projectPath": "C:\\Users\\tuggc\\OneDrive\\Masaüstü\\P016MVC\\AspNetMvcBlog\\ASPNetMvcBlog.csproj",
         "packagesPath": "C:\\Users\\tuggc\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\tuggc\\OneDrive\\Masaüstü\\P016MVC\\ASPNetMvcBlog\\obj\\",
         "projectStyle": "PackageReference",
